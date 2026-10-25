@@ -1,0 +1,8 @@
+{
+  "name": "free-image-generation-api",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-25",
+  "ai": {
+    "binding": "AI"
+  }
+}
